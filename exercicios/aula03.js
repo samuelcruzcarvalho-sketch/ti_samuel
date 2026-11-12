@@ -10,6 +10,7 @@
     --cor-urgente: #C00000;
 }
 
+
 .cartao-urgente {
     border: 3px solid var(--cor-urgente);
 }
